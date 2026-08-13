@@ -1,0 +1,8 @@
+{
+  "name": "Remix Shinglab Charpotan Somity Manager",
+  "description": "শিংলাব চরপোতন সমিতির সদস্য, কিস্তি, বকেয়া ও হিসাব ব্যবস্থাপনা অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
